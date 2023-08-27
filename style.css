@@ -3,3 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.main{
+    width: 100%;
+    min-height: 100vh;
+    background-color:#81ecec ;
+}
