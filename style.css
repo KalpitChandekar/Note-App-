@@ -18,3 +18,10 @@
   background-color: white;
   margin: 15px;
 }
+
+.tool {
+  width: 100%;
+  background-color: #2d3435;
+  color: white;
+  padding: 5px;
+}
