@@ -10,6 +10,9 @@
   background-color: #81ecec;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
 }
 
 .note {
@@ -24,4 +27,11 @@
   background-color: #2d3435;
   color: white;
   padding: 5px;
+  display: flex;
+  justify-content: end;
+}
+
+.tool i {
+  padding: 5px;
+  cursor: pointer;
 }
