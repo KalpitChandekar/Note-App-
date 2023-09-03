@@ -11,7 +11,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
+
 }
 
 .note {
@@ -44,7 +44,20 @@
   font-size: 18px;
 }
 
-.note textarea:focus{
+.note textarea:focus {
   border: none;
   outline: none;
+}
+
+#addBtn {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  background-color: #2d3435;
+  color: white;
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
 }
