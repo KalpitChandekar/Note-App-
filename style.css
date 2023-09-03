@@ -41,6 +41,7 @@
   width: 100%;
   resize: none;
   padding: 10px;
+  font-size: 18px;
 }
 
 .note textarea:focus{
