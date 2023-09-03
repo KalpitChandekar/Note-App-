@@ -10,8 +10,6 @@
   background-color: #81ecec;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-
 }
 
 .note {
@@ -19,6 +17,7 @@
   width: 400px;
   background-color: white;
   margin: 15px;
+
 }
 
 .tool {
